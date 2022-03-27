@@ -61,7 +61,7 @@ if(empty($_SESSION["order"]) OR !isset($_SESSION["order"]))
               <a class="nav-link mr-4" href="produk_pembeli.php">ADD CART</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link mr-4" href="index.html">BLOG</a>
+              <a class="nav-link mr-4" href="blog.php">BLOG</a>
             </li>
             <li class="nav-item">
               <a class="nav-link mr-4" href="contact.php">CONTACT</a>
@@ -168,7 +168,7 @@ if(empty($_SESSION["order"]) OR !isset($_SESSION["order"]))
           <li id="menu-item-1698" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1698">
             <a href="order_pembeli.php">Add Cart</a></li>
           <li id="menu-item-1700" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1700">
-            <a href="index.html">Blog</a></li>
+            <a href="blog.php">Blog</a></li>
           <li id="menu-item-1701" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1701">
             <a href="contact.php">Contact</a></li>
           </ul></div></aside> </section>
