@@ -14,7 +14,17 @@ move_uploaded_file($source, $folder.$nama_file);
 $edit = mysqli_query($koneksi, "UPDATE produk SET nama_produk='$nama_produk', jenis_produk='$jenis_produk', 
 stok='$stok', harga='$harga', detail_produk='$detail_produk', gambar='$nama_file' WHERE id_produk='$id_produk' ");
 if($edit)
-	header('location: daftar_produk.php');
+{
+	echo "<script>
+				alert('Product Berhasil Diedit !');
+				document.location='daftar_produk.php';
+		  </script>";
+  }
 else
-	echo "Edit Produk Gagal";
+{
+	echo "<script>
+				alert('Product Gagal Diedit !');
+				document.location='daftar_produk.php';
+		  </script>";
+  }
  ?>
