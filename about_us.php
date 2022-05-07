@@ -31,14 +31,11 @@ include 'koneksi.php';
             <div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner vc_custom_1485270540813">
           <div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid">
         <div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">
-        <h2 style="font-size: 24px;color: #000000;line-height: 26px;text-align: center" class="vc_custom_heading" >AHMAD NADHIL, S.E.</h2>
+        <h2 style="font-size: 24px;color: #000000;line-height: 26px;text-align: center" class="vc_custom_heading" >RITA AGUSTYN</h2>
           <h5 style="font-size: 16px;color: #242d00;line-height: 18px;text-align: center" class="vc_custom_heading" >CEO & Co-Founder</h5></div></div></div>
             <div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">
-        <h2 style="font-size: 24px;color: #000000;line-height: 26px;text-align: center" class="vc_custom_heading" >TANJUNG MULIA D.N., S.Psi.</h2>
-          <h5 style="font-size: 16px;color: #242d00;line-height: 18px;text-align: center" class="vc_custom_heading" >CREATIVE DIRECTOR & Co-Founder</h5></div></div></div>
+        <h2 style="font-size: 24px;color: #000000;line-height: 26px;text-align: center" class="vc_custom_heading" >CREW & TEAM RITA FASHION</h2></div></div></div></div></div></div></div>
             <div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">
-          <h2 style="font-size: 24px;color: #000000;line-height: 26px;text-align: center" class="vc_custom_heading" >ADIB IBNU YASA, M.B.A.</h2>
-            <h5 style="font-size: 16px;color: #242d00;line-height: 18px;text-align: center" class="vc_custom_heading" >BUSINESS DEVELOPMENT MANAGER</h5></div></div></div></div></div></div></div>
           <div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner vc_custom_1485270549758"><br><br>
 
 
@@ -47,22 +44,22 @@ include 'koneksi.php';
            class="vc_custom_heading vc_custom_1582969959612" >ASSALAMUALAIKUM SAHABAT RITA FASHION</h4>
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<p style="font-size: 18px;">Rita Fashion merupakan pusat grosir pakaian untuk segala kalangan di Indonesia. Rita Fashion 
-            mempunyai ciri khas pakaian yang tetap penuh gaya dan kekinian, dan dengan harga terjangkau namun dengan 
+			<p style="font-size: 18px;">Rita Fashion merupakan pusat grosir hijab dan pakaian muslimah untuk segala kalangan wanita di Indonesia. 
+            Rita Fashion mempunyai ciri khas pakaian yang tetap penuh gaya dan kekinian, dan dengan harga terjangkau namun dengan 
             kualitas yang mumpuni.. Rita Fashion hadir pertama kali pada Januari tahun 2016. Rita Fashion hadir dari 
             berjualan pakaian online kecil-kecilan, hingga pada akhirnya memiliki toko offline maupun online yang selalu ramai oleh pembeli. 
-            Rita Fashiom yakin bahwa setiap orang dapat tampil trendy dan kekinian.</p>
+            Rita Fashion yakin bahwa setiap orang dapat tampil trendy dan kekinian.</p>
     <img src="images/SQUARE-SHERINA-BLACK-scaled.jpg"><br><br>
       <h4 style="font-size: 30px;color: #000000;line-height: 34px;text-align: left;font-family:Karla;font-weight:400;font-style:normal" 
-        class="vc_custom_heading vc_custom_1582969959612" >PERJALANAN KAMI.....</h4>
+        class="vc_custom_heading vc_custom_1582969959612" >PERJALANAN KAMI...</h4>
     <div class="wpb_text_column wpb_content_element " >
       <div class="wpb_wrapper">
         <p style="font-size: 18px;">Rita Fashion pertama kali muncul di Parengan, tepatnya di Jl Raya Sendangrejo-Jatirogo,
               Kec. Parengan, Kab. Bojonegoro, Jawa Timur dan juga melalui akun Instagram @rita_fashion. Kini, selama hampir 
               6 tahun kehadirannya. Rita Fashion telah melayani ribuan konsumen, mulai dari sabang sampai marauke. Selain itu, 
-              Rita Fashion juga telah memiliki 1 offline store di kota Parengan. Rita Fashion juga telah mampu memberdayakan lebih 
-              dari 90 penjahit yang berlokasi di tiga titik di Provinsi Jawa Timur. Rita Fashion selalu berusaha untuk dapat menjadi 
-              sentra pakaian kekinian, termurah dan terlengkap se-Indonesia.</p>                                                          
+              Rita Fashion juga telah memiliki 3 offline store di Parengan, Tuban, dan Sumberjo. Rita Fashion juga telah mampu  
+              memberdayakan lebih dari 90 penjahit yang berlokasi di tiga titik di Provinsi Jawa Timur. Rita Fashion selalu 
+              berusaha untuk dapat menjadi sentra pakaian kekinian, termurah dan terlengkap se-Indonesia.</p>                                                          
 
     <div class="row">
     <div class="container">
