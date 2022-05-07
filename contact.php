@@ -19,9 +19,9 @@ include 'koneksi.php';
     <div class="container">
         <div class="judul text-center mt-5">
         <img src="images/background/background_3.jpg"><br><br><br>
-        <h3 class = "display-5"><span class = "font-weight-bold">Grand Opening Rita Fashion Store 2 </span></h3><hr><br><br>
+        <h3 class = "display-5"><span class = "font-weight-bold">Rita Fashion - Sharing Dunia Kerja</span></h3><hr><br><br>
     <div class="wpb_video_wrapper"><div class="video-container"><iframe title="Grand Opening Rita Fashion Store 2" 
-    width="1000" height="600" src="https://www.youtube.com/embed/jVcqWVzRdVA?feature=oembed" frameborder="0" 
+    width="1000" height="600" src="https://youtube.com/embed/2j45cx9m4AQ?feature=oembed" frameborder="0" 
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div></div><br><br>
 <div class="vc_separator wpb_content_element vc_separator_align_left vc_sep_width_100 vc_sep_border_width_3 vc_sep_pos_align_left
  vc_custom_1487757377709 vc_separator-has-text" ><span class="vc_sep_holder vc_sep_holder_l"><span  style="border-color:#a8e8e2;" 
@@ -36,8 +36,8 @@ include 'koneksi.php';
 		<div class="wpb_wrapper">
 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.2050856525952!2d110.39620151453845!3d
                 -7.7680639944015155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59bc3d809405%3A0x56cf22e49057e
-                379!2sNadiraa%20Hijab!5e0!3m2!1sid!2sid!4v1580200299603!5m2!1sid!2sid" width="800" height="400" frameborder="0" 
-                style="border:0;" allowfullscreen=""></iframe></div></div><br>
+                379!2sNadiraa%20Hijab!5e0!3m2!1sid!2sid!4v1580200299603!5m2!1sid!2sid" 
+        width="800" height="400" frameborder="0" style="border:0;" allowfullscreen=""></iframe></div></div><br>
 <div class="vc_separator wpb_content_element vc_separator_align_left vc_sep_width_100 vc_sep_border_width_3 vc_sep_pos_align_left
  vc_custom_1487757377709 vc_separator-has-text" ><span class="vc_sep_holder vc_sep_holder_l"><span  style="border-color:#a8e8e2;" 
  class="vc_sep_line"></span></span><hr><br><h4>OPENING HOURS</h4><span class="vc_sep_holder vc_sep_holder_r"><span
@@ -56,7 +56,7 @@ include 'koneksi.php';
 				<div class="icon basic-paperplane" style="color:#dd6c6c"></div><br>
                 <div class="container">
         <div class="row footer-body">
-			</div><h4 class="icon_box_title">Admin Jawa Timur</h4><a class="icon_box_read_more" 
+			</div><h4 class="icon_box_title">Admin Toko</h4><a class="icon_box_read_more" 
             href="https://api.whatsapp.com/send?phone=6281215255138&amp;text=Hallo%20kak%20admin%20nadiraahijab.id%20hijab%20saya%20mau%20order">Whatsapps</a></div>
 	</div></div></div></div>		
 		<div class="shortcode_icon_box icon_position_top icon_style_normal with_separator">
@@ -64,7 +64,7 @@ include 'koneksi.php';
 				<div class="icon basic-paperplane" style="color:#dd6c6c"></div><br>
                 <div class="container">
         <div class="row footer-body">
-			</div><h4 class="icon_box_title">Admin Jawa</h4><a class="icon_box_read_more" 
+			</div><h4 class="icon_box_title">Admin Online</h4><a class="icon_box_read_more" 
             href="https://api.whatsapp.com/send?phone=6285711354835&amp;text=hallo%20kak%20nadiraahijab.id%20saya%20mau%20order">Whatsapps</a></div>
 	<div class="vc_empty_space"   style="height: 80px"><span class="vc_empty_space_inner"></span></div>
     
