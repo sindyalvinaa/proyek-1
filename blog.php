@@ -23,9 +23,9 @@ include 'koneksi.php';
           <p class="lead font-weight-bold"> Our Awesome News <br></p>
           <img src="images/SKIRT-ZASKIA-SILVER.jpg"><br><br>
           <h3 class="font-weight-bold">Rita Fashion</h3>
-          <h5>Rita Fashion adalah pusat hijab jogja terlengkap dan termurah dengan kualitas yang baik. 
-          Rita Fashion memiliki banyak variant seperti pashmina, khimar, hijab instan, hijab segi empat (square)
-             dan banyak variant lain yang menarik.</h5><br>
+          <h5>Rita Fashion adalah pusat hijab dan pakaian muslimah di Jawa Timur terlengkap dan termurah dengan kualitas yang baik. 
+              Rita Fashion memiliki banyak variant seperti pashmina, khimar, hijab instan, hijab segi empat (square)
+              dan banyak variant lain pakaian yang menarik.</h5><br>
           <h3 class="font-weight-bold">Tren Fashion ditahun 2022</h3><hr>
           <h5>Bagi orang-orang yang memiliki minat pada fashion tentu sangat penasaran dengan trend pakaian 2022 bukan?
              Apakah akan ada trend baru dalam busana muslim wanita? Atau justru trend-trend lama akan kembali bangkit 
